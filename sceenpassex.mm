@@ -2,7 +2,7 @@
 //  sceenpassex.mm
 //  sceenpassex
 //
-//  Created by zzzyuanhu on 2021/10/1.
+//  Created by runyoH on 2021/10/1.
 //  Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
 //
 
